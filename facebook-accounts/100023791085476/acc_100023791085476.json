@@ -1,6 +1,6 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "19.11.2022 18:24 FarmeDia10",
+	"lastEventDate": "19.11.2022 18:26 FarmeDia10",
 	"status": 2,
 	"id": "100023791085476",
 	"name": "matheus.luiz.3720190",
@@ -77,7 +77,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1669398566,
+			"expirationDate": 1669487211,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -90,19 +90,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJsazE0ejF5ZzQwbjEiLCJ0aW1lIjoxNjY4NzkzMjgzfQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1668879684,
+			"expirationDate": 1668968357,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "cppo",
@@ -115,7 +103,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676569637.315911,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJsbHhrNDNqZTh4eCIsInRpbWUiOjE2Njg4ODE5NTZ9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676658283.619397,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0PiTNNo1ibtPQnJvS.AWUutTGzL1XuAcweww79xSlTRFg.Bja-F5.hm.AAA.0.0.Bjd8Uk.AWWSMnE3T-g"
+			"value": "0PiTNNo1ibtPQnJvS.AWUbLQtHg1jn_mi_ydeLCHd5gPg.Bja-F5.hm.AAA.0.0.BjeR9s.AWVwJXhKyIk"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,7 +136,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1668793742573%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1668882388349%2C%22v%22%3A1%7D"
 		}
 	]
 }
