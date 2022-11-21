@@ -1,10 +1,14 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "21.11.2022 13:03 FarmeDia11",
+	"lastEventDate": "21.11.2022 13:25 FarmeDia11",
 	"status": 2,
 	"id": "100014456764236",
 	"name": "912399319ao",
 	"amountFriends": "534",
+	"screenname": "Elton Teodoro Dias",
+	"birthdate": "1977 May 13",
+	"country": "Brazil",
+	"isAvatarExists": false,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -47,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700570228.842484,
+			"expirationDate": 1700408722.321561,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -60,7 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1669121172,
+			"expirationDate": 1668959439,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "cppo",
@@ -86,7 +90,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1669639979,
+			"expirationDate": 1700408722.321608,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "45%3AWolBTjo3HdNmCQ%3A2%3A1668558684%3A-1%3A5563%3A%3AAcUpaBFy-YRfnhI5Z8kyfq4XrHw8ui9d2Q5fflhE0Sw"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1669479817,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -99,19 +116,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700570228.842604,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "45%3AWolBTjo3HdNmCQ%3A2%3A1668558684%3A-1%3A5563%3A%3AAcXgATDW9C1ms9iBw5msmJ7GyhcRvjvOKEYXZgRhUMk"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -120,11 +124,11 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJscDcxejF5M3BxdTgiLCJ0aW1lIjoxNjY5MDM0NzcwfQ%3D%3D"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJsbHFmbTFhc3czdyIsInRpbWUiOjE2Njg4NzQ0MjF9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676811075.155418,
+			"expirationDate": 1676650908.968651,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -133,7 +137,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0pAVu23MDFs5zVD61.AWWtKaxe1_9olitV2f1rYrczZs8.Bje3D1.0D.AAA.0.0.Bje3RD.AWW2ceYsdfo"
+			"value": "0OGGhM5PUj7X1RYq3.AWWHcJrcKohb3Vm8sBb3MBUkHx8.BjePoS.0D.AAA.0.0.BjeQKd.AWVHdY_JcAE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -145,7 +149,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669035155348%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1668875023290%2C%22v%22%3A1%7D"
 		}
 	]
 }
