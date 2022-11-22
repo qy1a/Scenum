@@ -1,6 +1,6 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "22.11.2022 14:39 FarmeDia01",
+	"lastEventDate": "22.11.2022 14:41 FarmeDia01",
 	"status": 2,
 	"id": "100023791085476",
 	"name": "matheus.luiz.3720190",
@@ -77,7 +77,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1669487211,
+			"expirationDate": 1669732899,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -90,7 +90,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1668968357,
+			"expirationDate": 1669213559,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "cppo",
@@ -111,11 +111,11 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJsbHhrNDNqZTh4eCIsInRpbWUiOjE2Njg4ODE5NTZ9"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJscjZyYXF0bTc3NCIsInRpbWUiOjE2NjkxMjcxNTh9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676658283.619397,
+			"expirationDate": 1676903955.532348,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0PiTNNo1ibtPQnJvS.AWUbLQtHg1jn_mi_ydeLCHd5gPg.Bja-F5.hm.AAA.0.0.BjeR9s.AWVwJXhKyIk"
+			"value": "0PiTNNo1ibtPQnJvS.AWXDVvZhD1G7Uogr90jx7qVHPxw.Bja-F5.hm.AAA.0.0.BjfN8U.AWVhM6o-9i8"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,7 +136,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1668882388349%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669128076399%2C%22v%22%3A1%7D"
 		}
 	]
 }
