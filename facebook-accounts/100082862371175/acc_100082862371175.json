@@ -1,6 +1,6 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "25.11.2022 15:20 FarmeDia02",
+	"lastEventDate": "25.11.2022 15:22 FarmeDia02",
 	"status": 2,
 	"id": "100082862371175",
 	"name": "",
@@ -8,7 +8,7 @@
 	"cookie": [
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700766695.127144,
+			"expirationDate": 1700919875.730418,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -60,7 +60,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1669317096,
+			"expirationDate": 1669475712,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "cppo",
@@ -73,7 +73,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700766695.127244,
+			"expirationDate": 1700919875.730479,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -82,11 +82,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "13%3AuIJ5v8JD4CidzA%3A2%3A1660818083%3A-1%3A-1%3A%3AAcWxLgwh1ZQ0DP0hYbDT_R8fCtc3Pu2249pnW88wzJ8"
+			"value": "13%3AuIJ5v8JD4CidzA%3A2%3A1660818083%3A-1%3A-1%3A%3AAcV2Dficb4VwtEXW0AiSpuJg_HCmrbvg-Q4uExsvBlE"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1669835914,
+			"expirationDate": 1669994547,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -99,19 +99,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677006984.078228,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0Y4PPiOf1pwQxcRiX.AWWQoK2yypfAwSSTOt6CUUX4DLU.BjfnBn.hl.AAA.0.0.BjfnGI.AWX__tOoSPo"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -120,7 +107,20 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJsdGVuYmFydHRiZSIsInRpbWUiOjE2NjkyMzA5OTV9"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJsd3QxYm80Nmw5eSIsInRpbWUiOjE2NjkzODkzMTF9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677165611.971131,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0DdZczifz1z0yZs92.AWUVYXyisej3otDVXoOb0QB4fiM.BjgMbE.hl.AAA.0.0.BjgN0s.AWVQM8Q9UWM"
 		},
 		{
 			"domain": ".facebook.com",
@@ -132,7 +132,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669231091855%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669389725739%2C%22v%22%3A1%7D"
 		}
 	],
 	"screenname": "Felix Petersen",
