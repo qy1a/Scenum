@@ -75,7 +75,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700837173.139669,
+			"expirationDate": 1701209620.745165,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -100,20 +100,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1669352183,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "cppo",
-			"path": "/",
-			"sameSite": "unspecified",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1669906447,
+			"expirationDate": 1670278731,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -126,7 +113,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700837173.139717,
+			"expirationDate": 1701209620.745214,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -135,11 +122,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "32%3AffBZT8YH9rp1Hw%3A2%3A1666424769%3A-1%3A-1%3A%3AAcXkWj7KHeb-8BcOlVzDZ8FyaT1sgfZCDA1R6v6Thh4"
+			"value": "32%3AffBZT8YH9rp1Hw%3A2%3A1666424769%3A-1%3A-1%3A%3AAcWXk32ODnG6kHFLQtHqYg1xVGEcFoTiEO-0qh7zMtw"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677077519.694224,
+			"expirationDate": 1677449811.787695,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -148,7 +135,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0rLTW7LYX5vh9V0JW.AWUnWqpR6hLZhE7PA4uvfhBjyPw.Bjf4O1.SM.AAA.0.0.Bjf4UQ.AWUiXkt4R80"
+			"value": "0UCoXLAyWgdeZGINe.AWX4fuDYPOCQu2gnYw6Vk-RDOHY.BjhTKV.SM.AAA.0.0.BjhTNU.AWUiEP-pKU8"
 		},
 		{
 			"domain": ".facebook.com",
@@ -160,9 +147,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669301624280%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669673908180%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "28.11.2022 22:16 FarmeDia03",
+	"lastEventDate": "28.11.2022 22:18 FarmeDia03",
 	"status": 2
 }
