@@ -10,7 +10,7 @@
 	"cookie": [
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1701200867.080385,
+			"expirationDate": 1701267575.492224,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -88,7 +88,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1670270025,
+			"expirationDate": 1670336838,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -101,7 +101,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1701200867.080527,
+			"expirationDate": 1701267575.492367,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -110,20 +110,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "21%3AdSsKb6PSjOWbzQ%3A2%3A1666480244%3A-1%3A-1%3A%3AAcVCEeSINbSalcftFBnMYJK_ZsceaqzMNomJ9XaLYqA"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677441107.32841,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0NfnjFT48nM8MqBGs.AWVA3ltxVmQ_iRVaoVSaISYUj6c.BjhRBj.cz.AAA.0.0.BjhRFU.AWWNySgNvmI"
+			"value": "21%3AdSsKb6PSjOWbzQ%3A2%3A1666480244%3A-1%3A-1%3A%3AAcVjWIInlnqjO3zG1m45dwC7HzBXOp46iPQh1r4tltg"
 		},
 		{
 			"domain": ".facebook.com",
@@ -135,7 +122,20 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJtMnBudTFuMXFoNXUiLCJ0aW1lIjoxNjY5NjY1MTE0fQ%3D%3D"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJtNDU0cDFzajI1M2siLCJ0aW1lIjoxNjY5NzMxNTc3fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677507919.309406,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0zzN2M8nUY1JvakKv.AWUSGHOiXgBveR5iPsLgCeueS98.BjhhT4.cz.AAA.0.0.BjhhZQ.AWXALwwCeS4"
 		},
 		{
 			"domain": ".facebook.com",
@@ -147,9 +147,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669665221988%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669732036126%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "29.11.2022 14:25 FarmeDia06",
+	"lastEventDate": "29.11.2022 14:27 FarmeDia06",
 	"status": 2
 }
